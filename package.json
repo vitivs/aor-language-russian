@@ -1,14 +1,14 @@
 {
-  "name": "aor-language-russian",
+  "name": "aor-language-ukrainian",
   "version": "1.0.4",
-  "description": "Russian translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "description": "Ukrainian translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cytomich/aor-language-russian.git"
+    "url": "git+https://github.com/vitivs/aor-language-ukrainian.git"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "Ilya Akulenko",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cytomich/aor-language-russian/issues"
+    "url": "https://github.com/vitivs/aor-language-ukrainian/issues"
   },
-  "homepage": "https://github.com/cytomich/aor-language-russian#readme"
+  "homepage": "https://github.com/vitivs/aor-language-ukrainian#readme"
 }
