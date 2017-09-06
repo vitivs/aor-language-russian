@@ -1,23 +1,23 @@
-# Russian Translations for Admin-on-rest
+# Ukrainian Translations for Admin-on-rest
 
-Russian translations for [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
+Ukrainian translations for [admin-on-rest](https://github.com/marmelab/admin-on-rest), the frontend framework for building admin applications on top of REST services.
 
 ## Installation
 
 ```sh
-npm install --save aor-language-russian
+npm install --save aor-language-ukrainian
 ```
 
 ## Usage
 
 ```js
-import russianMessages from 'aor-language-russian';
+import ukrainianMessages from 'aor-language-ukrainian';
 
 const messages = {
-    'ru': russianMessages,
+    'uk': ukrainianMessages,
 };
 
-<Admin locale="ru" messages={messages}>
+<Admin locale="uk" messages={messages}>
   ...
 </Admin>
 ```
